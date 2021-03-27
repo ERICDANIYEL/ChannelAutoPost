@@ -23,7 +23,7 @@ Add the above values to the environment vars and deploy the bot.
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
 
-## Usage
+## Usage Ericbotz
 Add the bot to both channels with admin permission, and thats it!
 All new messages will be auto-posted!!
 
